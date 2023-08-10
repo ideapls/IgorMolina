@@ -1,6 +1,6 @@
 ## Hello, my name is Igor.
  <div>
-  <a href="https://github.com/ideapls">
+  <a href="https://github.com/igor-molina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igor-molina&show_icons=true&theme=merko"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-molina&layout=compact&langs_count=7&theme=merko"/>
 </div>
